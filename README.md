@@ -24,7 +24,7 @@ A simple ATM Machine project built using Python. This program allows users to ch
 4. Run the file:
 
 ```bash
-python atm.py
+python second.py
 ```
 
 ## 🔑 Default Credentials
