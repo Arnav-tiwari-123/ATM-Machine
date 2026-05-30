@@ -24,7 +24,7 @@ A simple ATM Machine project built using Python. This program allows users to ch
 4. Run the file:
 
 ```bash
-python second.py
+python ATM.py
 ```
 
 ## 🔑 Default Credentials
@@ -60,7 +60,7 @@ Your balance is: 10000
 ```text
 ATM-Machine/
 │
-├── atm.py
+├── ATM.py
 └── README.md
 ```
 
